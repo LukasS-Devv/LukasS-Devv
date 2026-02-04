@@ -1,4 +1,4 @@
-# Olá, eu sou o Lukas Silva! 👋 🇵🇹
+# Olá, eu sou o Lucas Silva! 👋 🇵🇹
 
 ### 🚀 Sobre mim
 - 🎓 Estudante de Curso Profissional de Desenvolvimento de Software.
