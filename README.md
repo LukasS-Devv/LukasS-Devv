@@ -7,7 +7,7 @@
 - Linguas:
     -Português (Lingua materna)
     -Inglês (Intermedio)
-    -Japonês (iniciandte)
+    -Japonês (iniciante)
 
 ### 🛠️ Tecnologias & Ferramentas
 - C++
