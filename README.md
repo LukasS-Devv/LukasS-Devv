@@ -4,13 +4,18 @@
 - 🎓 Estudante de Curso Profissional de Desenvolvimento de Software.
 - 🏗️ No momento, estou colaborando em um **Sistema de Gestão Empresarial** modularizado.
 - 🧠 Sou apaixonado por lógica de programação e por resolver desafios complexos.
+- Linguas:
+    -Português (Lingua materna)
+    -Inglês (Intermedio)
+    -Japonês (iniciandte)
 
 ### 🛠️ Tecnologias & Ferramentas
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Html](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
-![Css](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- C++
+- Css
+- Html
+- JavaScript
+- Git
+- AI knowledge
 
 ### 🏮 Fora do Código
 Além de programar, sou um grande entusiasta da cultura japonesa:
